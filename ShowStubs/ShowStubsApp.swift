@@ -7,14 +7,15 @@
 
 import SwiftUI
 import SwiftData
+import SetlistFMKit
 
 @main
-struct ShowStubsApp: App {
-
+ struct ShowStubsApp: App {
+    
     var body: some Scene {
         WindowGroup {
             ContentView()
         }
-        .modelContainer(for: Item.self)
+        .modelContainer(ShowData.container)
     }
 }
