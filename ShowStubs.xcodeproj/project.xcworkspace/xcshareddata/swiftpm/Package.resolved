@@ -1,0 +1,32 @@
+{
+  "pins" : [
+    {
+      "identity" : "drillurl",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wilks7/DrillURL.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "f273c32dcd244447b3663407dfe586de918b2620"
+      }
+    },
+    {
+      "identity" : "musicbrainzkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wilks7/MusicBrainzKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "18581daaf7a3a1d38a29eb1b187fb1d674c176ad"
+      }
+    },
+    {
+      "identity" : "setlistfmkit",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/wilks7/SetlistFMKit.git",
+      "state" : {
+        "branch" : "main",
+        "revision" : "39573083cd0930be6877085e3a073eea5b932656"
+      }
+    }
+  ],
+  "version" : 2
+}

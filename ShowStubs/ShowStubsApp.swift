@@ -7,7 +7,6 @@
 
 import SwiftUI
 import SwiftData
-import SetlistFMKit
 
 @main
  struct ShowStubsApp: App {
